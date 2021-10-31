@@ -1,0 +1,12 @@
+.calendar a {
+ color: #156639;
+}
+
+.fc-h-event {
+    background-color: #156639 !important;
+    border: 2px solid #156639 !important;
+}
+
+.fc .fc-button-primary {
+    background-color: #156639 !important;
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "Mario",
+    "surname": "Romero",
+    "email": "mario@mario.com",
+    "pets": [
+      {
+        "_id": 0,
+        "name": "Ronnie",
+        "species": "DOG",
+        "race": "Bóxer",
+        "genre": "male",
+        "age": "13",
+        "weight": "18,7",
+        "home": "FLAT",
+        "img": "https://www.larazon.es/resizer/mvgarjKDqLxGr6ume2y8q0EWwgA=/840x0/smart/filters:format(jpg)/cloudfront-eu-central-1.images.arcpublishing.com/larazon/2YVTN22JINH23BBBSYK6T5LXUM.jpg",
+        "microchip": "XXXXXXXXXXX",
+        "NHC": "XXXX",
+        "vaccines": [
+          "Moquillo",
+          "Hepatitis vírica canina",
+          "parvovirosis",
+          "leptospirosis",
+          "traqueobronquitis infecciosa canina"
+        ],
+        "sterilized": true
+      },
+      {
+        "_id": 1,
+        "name": "Rex",
+        "species": "DOG",
+        "race": "Pastor Alemán",
+        "genre": "male",
+        "age": "1",
+        "weight": "30",
+        "home": "HOUSE",
+        "img": "https://www.happets.com/blog/wp-content/uploads/2020/02/pastor-aleman-alimentacion-y-cuidados.jpg",
+        "microchip": "XXXXXXXXXXX",
+        "NHC": "XXXX",
+        "vaccines": [
+          "Moquillo",
+          "Hepatitis vírica canina",
+          "parvovirosis",
+          "leptospirosis",
+          "traqueobronquitis infecciosa canina"
+        ],
+        "sterilized": false
+      }
+    ]
+  }
+]

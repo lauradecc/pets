@@ -1,0 +1,44 @@
+.emergency-form h1 {
+    margin-top: 20px;
+}
+
+.emergency-form .circle {
+    border-radius: 100%;
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 25px;
+}
+
+.emergency-form button {
+    color: white;
+    font-weight: 700;
+    width: 100%;
+    background: #156639;
+    border-radius: 10px;
+    margin-top: 5vh;
+    border: none;
+}
+
+.emergency-form article {
+    background-color: #F2F4F3;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.emergency-form article > a {
+    color: #27B062;
+}
+
+.centered-img {
+    margin: 0 auto;
+    display: block;
+}
+
+.selected {
+    border: solid 5px #156639;
+}
+
+

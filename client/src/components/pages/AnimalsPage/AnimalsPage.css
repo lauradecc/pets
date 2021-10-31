@@ -1,0 +1,18 @@
+.pets-page img {
+  object-fit: cover;
+  width: 150px;
+  height: 150px;
+  box-shadow: 0px 3.3297px 6.65939px rgba(0, 0, 0, 0.1);
+  border-radius: 24.9727px;
+}
+
+.pets-page button {
+    color: white;
+    font-weight: 700;
+    width: 100%;
+    background: #156639;
+    border-radius: 10px;
+    margin-top: 5vh;
+    border: none;
+    margin-bottom: 40px;
+}

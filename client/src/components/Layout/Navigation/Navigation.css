@@ -1,0 +1,13 @@
+.navbar__logo {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.navbar {
+    background: none;
+}
+
+.navbar button {
+    border: none;
+    color: #575757;
+}

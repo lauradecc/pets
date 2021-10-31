@@ -1,0 +1,72 @@
+.login-page__mainImg {
+    width: 50%;
+    margin-top: 10vh;
+    display: block;
+    margin: 5vh auto;
+}
+
+.login-page input {
+    border-radius: 10px;
+}
+
+.login-page input:active,
+.login-page input:focus {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset,
+        0 0 8px rgba(21, 102, 57, 0.6);
+    outline: 0 none;
+    border: 1px solid #156639;
+    background: #f2f4f3;
+}
+
+.forgot-pwd__link {
+    font-size: 12px;
+    display: block;
+    color: black;
+    font-weight: 500;
+}
+
+.login-page a:hover {
+    color: black;
+}
+
+.submit-btn__link {
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.login-page button {
+    background: #156639;
+    border-radius: 10px;
+    width: 40%;
+    border: none;
+    font-weight: 700;
+    height: 40px;
+    text-decoration: none !important;
+}
+
+.login-page button:hover {
+    background: #156639;
+    text-decoration: none;
+}
+
+.login-page p {
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.login-page hr {
+    width: 25%;
+    border: 1px solid #000000;
+}
+
+.login-page__logo {
+    width: 40px;
+    margin: 2% 4%;
+}
+
+.login-page__footer-text {
+    text-decoration-line: underline;
+    font-weight: 500;
+    font-size: 12px;
+}

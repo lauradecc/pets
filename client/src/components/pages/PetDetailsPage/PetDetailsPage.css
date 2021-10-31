@@ -1,0 +1,54 @@
+.pet-details-page__img {
+  object-fit: cover;
+  width: 150px;
+  height: 150px;
+  box-shadow: 0px 3.3297px 6.65939px rgba(0, 0, 0, 0.1);
+  border-radius: 24.9727px;
+}
+
+.pet-details-page .white-btn {
+  color: #156639;
+  font-weight: 700;
+  width: 100%;
+  background: #ffff;
+  border-radius: 10px;
+  border: 2px solid #156639;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  display: block;
+  padding: 5px 0;
+}
+
+.pet-details-page .green-btn {
+  color: #ffff;
+  font-weight: 700;
+  width: 100%;
+  background: #156639;
+  border-radius: 10px;
+  border: 2px solid #156639;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  display: block;
+  padding: 5px 0;
+}
+
+.pet-details-page__green-link,
+.pet-details-page__green-link:hover {
+  text-decoration-line: underline;
+  color: #27b062;
+  font-size: 12px;
+}
+
+.pet-details-page__regular-link {
+  text-decoration: none;
+}
+
+.pet-details-page i img {
+  width: 30px;
+}
+
+.pet-details-page__paragraph {
+  color: #575757;
+}
+
+.pet-details-page p {
+  font-size: 14px;
+}
