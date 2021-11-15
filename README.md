@@ -2,7 +2,7 @@
 
 ### Description
 
-**Petsbook** is a single page application (SPA) to gather all the information of your pet (history, vaccines, treatments ...) and in urgent cases to be able to ask questions about symptoms and obtain recommendations from professionals.
+**Petsbook** is a single page application (SPA) to gather all the information of your pet (history, vaccines, treatments...) and in urgent cases to be able to ask questions about symptoms and obtain recommendations from professionals.
 
 ### Server Install
 
